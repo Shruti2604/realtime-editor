@@ -27,6 +27,10 @@ const Home  = () => {
         </span>
     </div>
     </div>
+
+    <footer>
+            <h4>Built with {'\u{1F49B}'} {' '} by <a href="https://github.com/Shruti2604">Shruti</a></h4>
+    </footer>
     </div>
     
 };
